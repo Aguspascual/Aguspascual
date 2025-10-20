@@ -56,7 +56,7 @@ He participado en proyectos donde mis responsabilidades incluyeron el análisis 
       </div>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/Aguspascual/Gestion-Financiera.git">
+      <a href="https://github.com/Aguspascual/Gestion-Financiera">
         <img alt="Tarjeta del proyecto Gestion Financiera" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguspascual&repo=Gestion-Financiera&theme=cobalt&show_owner=true" />
       </a>
       <br>
