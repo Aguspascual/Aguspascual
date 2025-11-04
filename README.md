@@ -7,13 +7,13 @@ Soy **Estudiante de Ingeniería en Sistemas de Información** con una fuerte voc
 
 He participado en proyectos donde mis responsabilidades incluyeron el análisis de documentación, diseño y ejecución de casos de prueba (manuales y automatizados), validación de APIs con Postman y documentación de errores. 
 
-- 🔭 Actualmente estoy enfocado en mis estudios universitarios y en proyectos de desarrollo personal.
-- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en el desarrollo de software y QA.
-- 👯 Busco colaborar en proyectos innovadores donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
-- 💬 Pregúntame sobre **Python, Flask, React, React Native, QA y metodologías ágiles**.
+-  Actualmente estoy enfocado en mis estudios universitarios y en proyectos de desarrollo personal.
+-  Siempre estoy aprendiendo y mejorando mis habilidades en el desarrollo de software y QA.
+-  Busco colaborar en proyectos innovadores donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
+-  Pregúntame sobre **Python, Flask, React, React Native, QA y metodologías ágiles**.
 
 <br/>
-<h3> 🤝🏻 &nbsp;Conéctate Conmigo </h3>
+<h3>  &nbsp;Conéctate Conmigo </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-pascual-marcos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -22,15 +22,15 @@ He participado en proyectos donde mis responsabilidades incluyeron el análisis 
 
 <h3> 🛠 &nbsp;Tecnologías y Habilidades</h3>
 
-- 💻 &nbsp; **Lenguajes:** Python, JavaScript 
-- 🌐 &nbsp; **Frameworks:** Flask, React.js, React Native 
-- 🛢 &nbsp; **Bases de Datos:** PostgreSQL, MySQL 
-- 🧪 &nbsp; **QA/Testing:** PyTest, Selenium, Cypress, QA Manual, Casos de prueba, Jira, Trello, Pruebas funcionales 
-- ⚙️ &nbsp; **Herramientas y Otros:** Git, GitHub, Docker, Postman, Scrum, UML, Diseño OO 
+-  &nbsp; **Lenguajes:** Python, JavaScript 
+-  &nbsp; **Frameworks:** Flask, React.js, React Native 
+-  &nbsp; **Bases de Datos:** PostgreSQL, MySQL 
+-  &nbsp; **QA/Testing:** PyTest, Selenium, Cypress, QA Manual, Casos de prueba, Jira, Trello, Pruebas funcionales 
+-  &nbsp; **Herramientas y Otros:** Git, GitHub, Docker, Postman, Scrum, UML, Diseño OO 
 
 <br/>
 
-## 📝 Mis Proyectos Destacados
+##  Mis Proyectos Destacados
 
 <table width="100%">
   <tr>
