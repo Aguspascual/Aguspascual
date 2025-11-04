@@ -1,6 +1,6 @@
 ![Banner de Bienvenida](banner.png)
 
-<h3> :man_technologist: &nbsp;Acerca de Mí </h3>
+<h3>  &nbsp;Acerca de Mí </h3>
 
 
 Soy **Estudiante de Ingeniería en Sistemas de Información** con una fuerte vocación por el desarrollo de software y el testing de calidad. Cuento con experiencia en **QA manual y automatizado**, así como en el **desarrollo de aplicaciones web y móviles**.
@@ -20,7 +20,7 @@ He participado en proyectos donde mis responsabilidades incluyeron el análisis 
   <a href="mailto:agus_pascual@hotmail.com?subject=Contacto%20desde%20GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-<h3> 🛠 &nbsp;Tecnologías y Habilidades</h3>
+<h3>  &nbsp;Tecnologías y Habilidades</h3>
 
 -  &nbsp; **Lenguajes:** Python, JavaScript 
 -  &nbsp; **Frameworks:** Flask, React.js, React Native 
